@@ -66,11 +66,6 @@ body{
 
 
 
-.carousel{
-    width:auto;
-    max-height: 100px
-}
-
 /*Forma de Index*/
 .contenedor{
     background:linear-gradient(to top, #DD5746,#DC6B19);
